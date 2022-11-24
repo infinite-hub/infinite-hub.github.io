@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(24, 106, 177);
+}
+.Card {
+    border: solid 2px black;
+    display: inline-block;
+    background-color: bisque;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    height: 300px;
+    width: 250px;
+    cursor: no-drop;
+}
+
+.Card > img {
+    width: 100px;
+}
